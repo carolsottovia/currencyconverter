@@ -21,7 +21,7 @@
     "winston": "^2.4.0"
   },
   "devDependencies": {
-    "mocha": "^4.0.1",
+    "mocha": "^10.2.0",
     "supertest": "^3.0.0"
   },
   "engines": {
